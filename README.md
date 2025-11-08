@@ -3,8 +3,7 @@
 ## Overview
 This is an implementation of the math behind an RLWE key exchange protocol.
 
-**DISCLAIMER:** This implementation has not undergone cryptographic security analysis and should not
-be considered secure for real-world use.
+**DISCLAIMER:** This was made purely for fun. It's definitely shouldn't be considered secure for real-world use.
 
 ## Acknowledgements :
 Special thanks to:
