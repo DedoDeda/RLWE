@@ -123,7 +123,7 @@ def example():
     if (alice_shared_key == bob_shared_key).all():
         print(f'Alice and Bob exchanged keys successfully. Shared key is {alice_shared_key}.')
     else:
-        print('Alice and bob failed to exchange keys. '
+        print('Alice and Bob failed to exchange keys. '
               'There was a mismatch between their shared keys.')
 
 
