@@ -8,5 +8,5 @@ be considered secure for real-world use.
 
 ## Acknowledgements :
 Special thanks to:
-1) [A Security Site](https://asecuritysite.com) for providing valuable resources.
-2) [Elucyda on YouTube](https://www.youtube.com/@Elucyda) for insightful explanations.
+1) [A Security Site](https://asecuritysite.com) for providing valuable resources
+2) [Elucyda on YouTube](https://www.youtube.com/@Elucyda) for insightful explanations
